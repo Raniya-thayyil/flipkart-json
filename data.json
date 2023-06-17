@@ -1,30 +1,6 @@
 {   
    
-    
-     "flashingImages" : [
-        {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/464f9ca85668fddb.jpg?q=60"
-        },
-          {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/38aa1b896b56c471.jpg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/5a047d0a761839ce.jpg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/b7f9a4699ef44581.jpeg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/a6224c56cccd9bd7.jpeg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/3b138159c9d6f796.jpeg?q=20"
-        },
-            {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/df5eeaf535177e74.jpg?q=20"
-        }
 
-    ],
     "navbar" : [
         {
             "image" : "https://rukminim1.flixcart.com/flap/117/111/image/033f3268031fa0ba.jpg?q=60"
@@ -95,6 +71,32 @@
             "image" : "https://rukminim1.flixcart.com/fk-p-flap/213/228/image/000d83c91fcd0ea6.jpeg?q=60"
         }
     ],
+        
+     "flashingImages" : [
+        {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/464f9ca85668fddb.jpg?q=60"
+        },
+          {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/38aa1b896b56c471.jpg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/5a047d0a761839ce.jpg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/b7f9a4699ef44581.jpeg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/a6224c56cccd9bd7.jpeg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/3b138159c9d6f796.jpeg?q=20"
+        },
+            {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/df5eeaf535177e74.jpg?q=20"
+        }
+
+    ],
+    
     "TwoImages" : [
         "https://rukminim1.flixcart.com/fk-p-image/320/414/cf-ce-calvin-prod7/5fb748326bff9601682b1a220fc6e7d2.JPEG?q=60",
         "https://rukminim1.flixcart.com/fk-p-image/320/414/cf-ce-calvin-prod4/c7c9ad501d8636fdfb3418eeb26856b2.JPEG?q=60"
@@ -224,14 +226,7 @@
         "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/3d274f1289f79e2a.jpeg?q=50"
 
     ],
-        "acMobiles" : [
-        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/32655c2ae11bea21.jpg?q=50",
-        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/0e2442f1a34ac836.jpeg?q=50",
-        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/a20cec49769ebfc5.jpg?q=50"    
-
-    ],
-
-
+     
     "topOffers" : [
         {
             "image" : "https://rukminim1.flixcart.com/image/200/200/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
@@ -282,7 +277,12 @@
             "price" : "Samsung, Sony, LG, Mi &more"
         }
     ],
+       "acMobiles" : [
+        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/32655c2ae11bea21.jpg?q=50",
+        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/0e2442f1a34ac836.jpeg?q=50",
+        "https://rukminim1.flixcart.com/fk-p-flap/480/480/image/a20cec49769ebfc5.jpg?q=50"    
 
+    ],
 
     "topDeals" : [
         {

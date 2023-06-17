@@ -1,29 +1,5 @@
-{
-    
-    "flashingImages" : [
-        {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/464f9ca85668fddb.jpg?q=60"
-        },
-          {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/38aa1b896b56c471.jpg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/5a047d0a761839ce.jpg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/b7f9a4699ef44581.jpeg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/a6224c56cccd9bd7.jpeg?q=60"
-        },
-           {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/3b138159c9d6f796.jpeg?q=20"
-        },
-            {
-            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/df5eeaf535177e74.jpg?q=20"
-        }
-
-    ],
+{   
+   
     "navbar" : [
         {
             "image" : "https://rukminim1.flixcart.com/flap/117/111/image/033f3268031fa0ba.jpg?q=60"
@@ -82,6 +58,30 @@
          {
             "image" : "https://rukminim1.flixcart.com/flap/117/111/image/aeb7da37a9e85209.jpg?q=60"
         }      
+    ],
+     "flashingImages" : [
+        {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/464f9ca85668fddb.jpg?q=60"
+        },
+          {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/38aa1b896b56c471.jpg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/5a047d0a761839ce.jpg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/b7f9a4699ef44581.jpeg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/640/284/image/a6224c56cccd9bd7.jpeg?q=60"
+        },
+           {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/3b138159c9d6f796.jpeg?q=20"
+        },
+            {
+            "image" : "https://rukminim1.flixcart.com/fk-p-flap/650/300/image/df5eeaf535177e74.jpg?q=20"
+        }
+
     ],
     "threeImages" : [
         {
